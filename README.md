@@ -8,3 +8,4 @@ create the connection with database then begin to talk to the database
 
 2. After getting to the database fields print figure out how to get it to display in the console.
 
+
